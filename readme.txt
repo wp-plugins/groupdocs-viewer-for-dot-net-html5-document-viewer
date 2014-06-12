@@ -21,7 +21,7 @@ GroupDocs.Viewer doesn't rasterize documents but converts them to HTML+CSS+SVG u
 
 2. <strong>High-fidelity display quality.</strong> Embedded documents are scalable and can fit any page or screen size without loss of rendering quality. Fonts always look sharp and the document's layout remains intact.
 
-3. <strong>Cross-platform compatibility.<strong> No need to install Flash, Acrobat Reader or any other plugins client-side. You just embed a document into a web-page and users can view it right away from any browser that supports HTML5.
+3. <strong>Cross-platform compatibility.</strong> No need to install Flash, Acrobat Reader or any other plugins client-side. You just embed a document into a web-page and users can view it right away from any browser that supports HTML5.
 
 <h4>Convenient UI</h4>
 
@@ -59,7 +59,7 @@ For more information on the GroupDocs HTML5 document viewer, please visit the <a
 
 == Installation ==
 
-<strong>Please note:</strong> In order to use this plugin, you will need to buy a GroupDocs.Viewer for .NET Library license. We offer a free evaluation version so that you can test it before committing. For more details on the library, please <a href="http://groupdocs.com/dot-net/document-viewer-library" target="_blank">see the product page</a>.
+<strong>Please note:</strong> In order to use this plugin, you will need to buy a GroupDocs.Viewer for .NET Library license. We offer a free evaluation version so that you can test it before committing. For more details on the library, please <a href="http://groupdocs.com/dot-net/document-viewer-library" target="_blank">see the product's page</a>.
 
 1. Upload the entire `groupdocs-viewer-for-dot-net-html5-document-viewer` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the `Plugins` menu in WordPress.
@@ -73,8 +73,8 @@ For more information on the GroupDocs HTML5 document viewer, please visit the <a
 
 == Frequently Asked Questions ==
 
-Is this a free plugin?
-This plugin is free only for registered users of the GroupDocs.Viewer for .NET Library. In order to use the plugin, you need to buy a license first. We offer a free evaluation version of the library, so that you can test it before committing. For more details on the GroupDocs.Viewer for .NET Library, please <a href="http://groupdocs.com/dot-net/document-viewer-library" target="_blank">see the product page</a>.
+<strong>Is this a free plugin?</strong></br>
+This plugin is free only for registered users of the GroupDocs.Viewer for .NET Library. In order to use the plugin, you need to buy a license first. We offer a free evaluation version of the library, so that you can test it before committing. For more details on the GroupDocs.Viewer for .NET Library, please <a href="http://groupdocs.com/dot-net/document-viewer-library" target="_blank">see the product's page</a>.
 
 If you still have questions, please feel free to <a href="http://groupdocs.com/corporate/contact-us" rel="nofollow" target="_blank">contact us</a>!
 
