@@ -55,8 +55,6 @@ GroupDocs.Viewer comes with a UI which allows users to conveniently navigate mul
 For more information on the GroupDocs HTML5 document viewer, please visit the <a href="http://groupdocs.com/html5-document-viewer" target="_blank">product's homepage</a>.
 
 
-
-
 == Installation ==
 
 <strong>Please note:</strong> In order to use this plugin, you will need to buy a GroupDocs.Viewer for .NET Library license. We offer a free evaluation version so that you can test it before committing. For more details on the library, please <a href="http://groupdocs.com/dot-net/document-viewer-library" target="_blank">see the product's page</a>.
