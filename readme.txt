@@ -76,9 +76,6 @@ For more information on the GroupDocs HTML5 document viewer, please visit the <a
 Is this a free plugin?
 This plugin is free only for registered users of the GroupDocs.Viewer for .NET Library. In order to use the plugin, you need to buy a license first. We offer a free evaluation version of the library, so that you can test it before committing. For more details on the GroupDocs.Viewer for .NET Library, please <a href="http://groupdocs.com/dot-net/document-viewer-library" target="_blank">see the product page</a>.
 
-Where can I get detailed help?
-For detailed installation and usage instructions, please see <a href="put link here" rel="nofollow" target="_blank">the plugins' documentation page</a>.
-
 If you still have questions, please feel free to <a href="http://groupdocs.com/corporate/contact-us" rel="nofollow" target="_blank">contact us</a>!
 
 == Changelog ==
