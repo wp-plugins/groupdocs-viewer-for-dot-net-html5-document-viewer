@@ -50,7 +50,7 @@ GroupDocs.Viewer comes with a UI which allows users to conveniently navigate mul
 
 <h4>Installation Instructions</h4>
 
-<strong>Please note:</strong> to use the .NET version of the GroupDocs HTML5 document viewer on your WordPress website without any restrictions, you need to <a href="http://groupdocs.com/purchase/dotnet-pricing" rel="nofollow" target="_blank">buy a license</a> first. Alternatively, please <a href="http://groupdocs.com/corporate/contact-us" rel="nofollow" target="_blank">contact our sales</a> for a free 30-day evaluation license, so that you can test everything before buying our service.
+<strong>Please note:</strong> to use the .NET version of the GroupDocs HTML5 document viewer on your WordPress website without any restrictions, you need to <a href="http://groupdocs.com/purchase/dotnet-pricing/viewer" rel="nofollow" target="_blank">buy a license</a> first. Alternatively, please <a href="http://groupdocs.com/corporate/contact-us" rel="nofollow" target="_blank">contact our sales</a> for a free 30-day evaluation license, so that you can test everything before buying our service.
 
 For more information on the GroupDocs HTML5 document viewer, please visit the <a href="http://groupdocs.com/html5-document-viewer" target="_blank">product's homepage</a>.
 
