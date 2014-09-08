@@ -3,7 +3,7 @@ Contributors: GroupDocs Team
 Tags: groupdocs, groupdocs viewer, document viewer, html5 document viewer, pdf, word, excel, powerpoint, doc, docx, ppt, pptx, xls, xlsx
 Author URI: http://groupdocs.com
 Requires at least: 2.8
-Tested up to: 3.9.0
+Tested up to: 4.0.0
 Stable tag: trunk
 License: GPLv2 
 
